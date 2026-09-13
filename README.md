@@ -1,16 +1,44 @@
 # Hi, I'm Piyush 👋
 
-B.Tech CSE (AI-ML), 2nd Year — learning machine learning by building real, end-to-end projects.
+**CSE Student | AI/ML & Generative AI | Building with code**
 
-## What I'm working on
-- 🔭 Currently exploring: classical ML with scikit-learn (classification & regression)
-- 🌱 Learning in public — every project here is built, debugged, and shipped by me from raw data to a working model
-- 🎯 Goal: building a strong ML foundation, one real project at a time
+I enjoy turning ideas into working software — from machine learning models to AI-powered and full-stack applications.
 
-## Projects
-- 🚢 [Titanic Survival Prediction](https://github.com/piyushng2008-coder/titanic-survival-prediction) — Logistic Regression, 81% accuracy
-- 🏠 [House Price Prediction](https://github.com/piyushng2008-coder/house_sale_price_prediction) — Ridge Regression, R² = 0.88, handled 261 features from a messy 80-column dataset
+## 🚀 What I'm Building
 
-## Tech
-Python · pandas · scikit-learn · Git/GitHub
+- 🤖 Exploring **Machine Learning, Generative AI & AI engineering**
+- 💻 Building **full-stack applications** and practical developer projects
+- 🧠 Strengthening my foundations in **Python, data, ML and software engineering**
+- 🌱 Learning by building, experimenting, debugging and shipping
 
+## 🛠️ Tech Stack
+
+**Languages:** Python · JavaScript · TypeScript
+
+**AI / ML:** pandas · scikit-learn · Machine Learning · Generative AI
+
+**Web:** React · Next.js · Node.js · Express · Tailwind CSS
+
+**Data & Tools:** PostgreSQL · Git · GitHub · REST APIs
+
+## 📌 Featured Projects
+
+### 🌆 UrbanPulse
+A full-stack civic-impact platform connecting citizen-reported local problems with structured triage, geospatial deduplication, district mapping and student/CSR workflows.
+
+### ✈️ Travel Customer Churn Prediction
+Machine learning project focused on predicting customer churn from travel-related data.
+
+### 🏠 House Sale Price Prediction
+Regression project using real-world housing data, feature handling and model evaluation.
+
+### 🚢 Titanic Survival Prediction
+A classification project exploring the fundamentals of supervised machine learning.
+
+## 🎯 Currently
+
+Building projects, exploring AI/ML, and continuously improving my ability to turn ideas into reliable software.
+
+---
+
+📫 **Let's build something useful.**
