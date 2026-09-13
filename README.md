@@ -23,16 +23,16 @@ I enjoy turning ideas into working software — from machine learning models to 
 
 ## 📌 Featured Projects
 
-### 🌆 UrbanPulse
+### 🌆 [UrbanPulse](https://github.com/piyushng2008-coder/URBANPULSE)
 A full-stack civic-impact platform connecting citizen-reported local problems with structured triage, geospatial deduplication, district mapping and student/CSR workflows.
 
-### ✈️ Travel Customer Churn Prediction
+### ✈️ [Travel Customer Churn Prediction](https://github.com/piyushng2008-coder/ML_MODEL_PROJECT_TRAVEL_CUSTOMER_CHURN)
 Machine learning project focused on predicting customer churn from travel-related data.
 
-### 🏠 House Sale Price Prediction
+### 🏠 [House Sale Price Prediction](https://github.com/piyushng2008-coder/house_sale_price_prediction)
 Regression project using real-world housing data, feature handling and model evaluation.
 
-### 🚢 Titanic Survival Prediction
+### 🚢 [Titanic Survival Prediction](https://github.com/piyushng2008-coder/titanic-survival-prediction)
 A classification project exploring the fundamentals of supervised machine learning.
 
 ## 🎯 Currently
